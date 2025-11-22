@@ -1,0 +1,21 @@
+INSERT INTO proveedores (nombre, email, telefono, direccion) VALUES ('Proveedor 01','prov01@example.com','555-1001','Calle 1 #100');
+INSERT INTO proveedores (nombre, email, telefono, direccion) VALUES ('Proveedor 02','prov02@example.com','555-1002','Calle 2 #200');
+INSERT INTO proveedores (nombre, email, telefono, direccion) VALUES ('Proveedor 03','prov03@example.com','555-1003','Calle 3 #300');
+INSERT INTO proveedores (nombre, email, telefono, direccion) VALUES ('Proveedor 04','prov04@example.com','555-1004','Calle 4 #400');
+INSERT INTO proveedores (nombre, email, telefono, direccion) VALUES ('Proveedor 05','prov05@example.com','555-1005','Calle 5 #500');
+INSERT INTO proveedores (nombre, email, telefono, direccion) VALUES ('Proveedor 06','prov06@example.com','555-1006','Calle 6 #600');
+INSERT INTO proveedores (nombre, email, telefono, direccion) VALUES ('Proveedor 07','prov07@example.com','555-1007','Calle 7 #700');
+INSERT INTO proveedores (nombre, email, telefono, direccion) VALUES ('Proveedor 08','prov08@example.com','555-1008','Calle 8 #800');
+INSERT INTO proveedores (nombre, email, telefono, direccion) VALUES ('Proveedor 09','prov09@example.com','555-1009','Calle 9 #900');
+INSERT INTO proveedores (nombre, email, telefono, direccion) VALUES ('Proveedor 10','prov10@example.com','555-1010','Calle 10 #1000');
+INSERT INTO proveedores (nombre, email, telefono, direccion) VALUES ('Proveedor 11','prov11@example.com','555-1011','Calle 11 #1100');
+INSERT INTO proveedores (nombre, email, telefono, direccion) VALUES ('Proveedor 12','prov12@example.com','555-1012','Calle 12 #1200');
+INSERT INTO proveedores (nombre, email, telefono, direccion) VALUES ('Proveedor 13','prov13@example.com','555-1013','Calle 13 #1300');
+INSERT INTO proveedores (nombre, email, telefono, direccion) VALUES ('Proveedor 14','prov14@example.com','555-1014','Calle 14 #1400');
+INSERT INTO proveedores (nombre, email, telefono, direccion) VALUES ('Proveedor 15','prov15@example.com','555-1015','Calle 15 #1500');
+INSERT INTO proveedores (nombre, email, telefono, direccion) VALUES ('Proveedor 16','prov16@example.com','555-1016','Calle 16 #1600');
+INSERT INTO proveedores (nombre, email, telefono, direccion) VALUES ('Proveedor 17','prov17@example.com','555-1017','Calle 17 #1700');
+INSERT INTO proveedores (nombre, email, telefono, direccion) VALUES ('Proveedor 18','prov18@example.com','555-1018','Calle 18 #1800');
+INSERT INTO proveedores (nombre, email, telefono, direccion) VALUES ('Proveedor 19','prov19@example.com','555-1019','Calle 19 #1900');
+INSERT INTO proveedores (nombre, email, telefono, direccion) VALUES ('Proveedor 20','prov20@example.com','555-1020','Calle 20 #2000');
+

@@ -1,0 +1,21 @@
+INSERT INTO productos (nombre, precio, stock) VALUES ('Producto 01', 10.50, 100);
+INSERT INTO productos (nombre, precio, stock) VALUES ('Producto 02', 20.00, 200);
+INSERT INTO productos (nombre, precio, stock) VALUES ('Producto 03', 30.99, 300);
+INSERT INTO productos (nombre, precio, stock) VALUES ('Producto 04', 40.00, 400);
+INSERT INTO productos (nombre, precio, stock) VALUES ('Producto 05', 50.10, 500);
+INSERT INTO productos (nombre, precio, stock) VALUES ('Producto 06', 60.20, 600);
+INSERT INTO productos (nombre, precio, stock) VALUES ('Producto 07', 70.30, 700);
+INSERT INTO productos (nombre, precio, stock) VALUES ('Producto 08', 80.40, 800);
+INSERT INTO productos (nombre, precio, stock) VALUES ('Producto 09', 90.50, 900);
+INSERT INTO productos (nombre, precio, stock) VALUES ('Producto 10', 15.00, 150);
+INSERT INTO productos (nombre, precio, stock) VALUES ('Producto 11', 25.00, 250);
+INSERT INTO productos (nombre, precio, stock) VALUES ('Producto 12', 35.00, 350);
+INSERT INTO productos (nombre, precio, stock) VALUES ('Producto 13', 45.00, 450);
+INSERT INTO productos (nombre, precio, stock) VALUES ('Producto 14', 55.00, 550);
+INSERT INTO productos (nombre, precio, stock) VALUES ('Producto 15', 65.00, 650);
+INSERT INTO productos (nombre, precio, stock) VALUES ('Producto 16', 75.00, 750);
+INSERT INTO productos (nombre, precio, stock) VALUES ('Producto 17', 85.00, 850);
+INSERT INTO productos (nombre, precio, stock) VALUES ('Producto 18', 95.00, 950);
+INSERT INTO productos (nombre, precio, stock) VALUES ('Producto 19', 12.34, 123);
+INSERT INTO productos (nombre, precio, stock) VALUES ('Producto 20', 23.45, 234);
+

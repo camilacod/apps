@@ -1,0 +1,21 @@
+INSERT INTO clientes (nombre, email, telefono) VALUES ('Cliente 01','cliente01@example.com','555-0001');
+INSERT INTO clientes (nombre, email, telefono) VALUES ('Cliente 02','cliente02@example.com','555-0002');
+INSERT INTO clientes (nombre, email, telefono) VALUES ('Cliente 03','cliente03@example.com','555-0003');
+INSERT INTO clientes (nombre, email, telefono) VALUES ('Cliente 04','cliente04@example.com','555-0004');
+INSERT INTO clientes (nombre, email, telefono) VALUES ('Cliente 05','cliente05@example.com','555-0005');
+INSERT INTO clientes (nombre, email, telefono) VALUES ('Cliente 06','cliente06@example.com','555-0006');
+INSERT INTO clientes (nombre, email, telefono) VALUES ('Cliente 07','cliente07@example.com','555-0007');
+INSERT INTO clientes (nombre, email, telefono) VALUES ('Cliente 08','cliente08@example.com','555-0008');
+INSERT INTO clientes (nombre, email, telefono) VALUES ('Cliente 09','cliente09@example.com','555-0009');
+INSERT INTO clientes (nombre, email, telefono) VALUES ('Cliente 10','cliente10@example.com','555-0010');
+INSERT INTO clientes (nombre, email, telefono) VALUES ('Cliente 11','cliente11@example.com','555-0011');
+INSERT INTO clientes (nombre, email, telefono) VALUES ('Cliente 12','cliente12@example.com','555-0012');
+INSERT INTO clientes (nombre, email, telefono) VALUES ('Cliente 13','cliente13@example.com','555-0013');
+INSERT INTO clientes (nombre, email, telefono) VALUES ('Cliente 14','cliente14@example.com','555-0014');
+INSERT INTO clientes (nombre, email, telefono) VALUES ('Cliente 15','cliente15@example.com','555-0015');
+INSERT INTO clientes (nombre, email, telefono) VALUES ('Cliente 16','cliente16@example.com','555-0016');
+INSERT INTO clientes (nombre, email, telefono) VALUES ('Cliente 17','cliente17@example.com','555-0017');
+INSERT INTO clientes (nombre, email, telefono) VALUES ('Cliente 18','cliente18@example.com','555-0018');
+INSERT INTO clientes (nombre, email, telefono) VALUES ('Cliente 19','cliente19@example.com','555-0019');
+INSERT INTO clientes (nombre, email, telefono) VALUES ('Cliente 20','cliente20@example.com','555-0020');
+
