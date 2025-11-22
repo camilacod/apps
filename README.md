@@ -1,5 +1,12 @@
 Monorepo de tres servicios Spring Boot (Clientes, Productos, Proveedores) con base de datos PostgreSQL y Nginx como proxy. Cada servicio expone un CRUD y se ejecuta en Docker.
 
+
+Link video:
+
+https://drive.google.com/file/d/1gMRUmyAm9_PnnzaX5OJ47L7aXamtuBHC/view?usp=sharing
+
+
+
 Estructura
 - app01 (Clientes)
 - app02 (Productos)
@@ -62,3 +69,6 @@ Limpieza
 - `docker rm -f app01 app02 app03 nginx-loadbalancer-nginx-1 db`
 - `docker network rm sd-net`
 - `docker system prune -a`
+
+
+
